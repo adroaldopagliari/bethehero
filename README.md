@@ -51,11 +51,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Images
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/.images/Be%20The%20Hero.png" width="70%" height="70%" />
+<img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/images/Be%20The%20Hero.png" width="70%" height="70%" />
 
-<img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/.images/Be%20The%20Hero(1).png" width="70%" height="70%" />
+<img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/images/Be%20The%20Hero(1).png" width="70%" height="70%" />
 
-<img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/.images/Be%20The%20Hero(2).png" width="70%" height="70%" />
+<img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/images/Be%20The%20Hero(2).png" width="70%" height="70%" />
 </h1>
 
-<img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/.images/Screenshot_20200327-023045_Expo.jpg" width="50%" height="50%"><img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/.images/Screenshot_20200327-023103_Expo.jpg" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/images/Screenshot_20200327-023045_Expo.jpg" width="50%" height="50%"><img src="https://raw.githubusercontent.com/adroaldopagliari/BeTheHero/master/images/Screenshot_20200327-023103_Expo.jpg" width="50%" height="50%">
